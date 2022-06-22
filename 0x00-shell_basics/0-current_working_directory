@@ -1,2 +1,2 @@
-#!/bin/bash /tmp/correction/7870948955426209023496304742734652054191_5/205/68463/0x00-shell_basics 
+#!/bin/bash SCRIPT=$(readlink -f "$0") SCRIPTPATH=$(dirname "$SCRIPT") echo $SCRIPTPATH 
 
